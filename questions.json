@@ -1,0 +1,7 @@
+[{"question_text": "Capital of Maharashtra?",
+  "alternatives": ["Nagpur", "Pune", "Mumbai", "Thane"],
+  "correct_answer":  3},
+  {"question_text": "Capital of India?",
+  "alternatives": ["Lucknow", "Delhi", "Mumbai", "Chennai"],
+  "correct_answer":  2}
+]
